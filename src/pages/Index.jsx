@@ -7,6 +7,9 @@ const Index = () => {
     <Container maxW="container.xl" p={5}>
       <VStack spacing={4} align="center">
         <Image src="https://images.unsplash.com/photo-1483648969698-5e7dcaa3444f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHx0YWNvJTIwcmVzdGF1cmFudHxlbnwwfHx8fDE3MTQzMTU1NzR8MA&ixlib=rb-4.0.3&q=80&w=1080" alt="Taco Sol Restaurant" borderRadius="lg" boxSize="300px" objectFit="cover" />
+        <Image src="https://images.unsplash.com/photo-1612874747625-05e5cfa9077a?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt="Tacos" borderRadius="lg" boxSize="300px" objectFit="cover" mt={4} />
+        <Image src="https://images.unsplash.com/photo-1589302168068-964664d93dc0?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt="Burrito" borderRadius="lg" boxSize="300px" objectFit="cover" mt={4} />
+        <Image src="https://images.unsplash.com/photo-1598511720601-3e3e7ca1f5c4?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt="Nachos" borderRadius="lg" boxSize="300px" objectFit="cover" mt={4} />
         <Heading as="h1" size="2xl" mt={5}>
           Taco Sol
         </Heading>
